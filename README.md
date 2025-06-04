@@ -1,1 +1,1 @@
-See the README.md at github.com/chrisbcaldwell/Applied_Stats
+See the README.md at [the Applied_Stats repository](github.com/chrisbcaldwell/Applied_Stats)
